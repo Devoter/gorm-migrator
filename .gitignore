@@ -1,0 +1,9 @@
+# vendor
+vendor/
+
+# IDE
+.vscode
+.idea
+
+# tests
+/coverage.out
